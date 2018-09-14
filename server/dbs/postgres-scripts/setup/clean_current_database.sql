@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS "FavoriteSpots";
+DROP TABLE IF EXISTS "Users";
+DROP TABLE IF EXISTS "VacationSpots";
